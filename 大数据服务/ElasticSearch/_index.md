@@ -10,3 +10,7 @@ Welcome to use
 
 ### Quick start
 * step 1
+
+[comment]: - List Item 1
+[comment]: - List Item 2
+[comment]: - List Item 3
