@@ -4,8 +4,8 @@ Welcome to use
 
 
 ### How to use
-* open the site
-* true on the feature
+[comment]: - open the site
+[comment]: - true on the feature
 ---
 
 ### Quick start
